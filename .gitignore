@@ -1,0 +1,16 @@
+/Servers
+/.metadata
+*~
+.#*
+*#
+target
+bin
+/data
+.classpath
+.project
+.settings
+.springBeans
+.DS_Store
+*.sw*
+*.iml
+.idea
